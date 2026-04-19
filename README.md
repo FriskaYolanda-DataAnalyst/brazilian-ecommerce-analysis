@@ -1,2 +1,1 @@
-# ecommerce-sales-analysis
-Data analysis of 13.5 million revenue e-commerce dataset using SQL for data processing and Tableau for visualization.
+End-to-end data analysis project using SQL for exploration and Tableau for interactive dashboarding. Analyzed 99k+ orders and 13.5M BRL revenue.
