@@ -19,10 +19,14 @@ Berdasarkan eksplorasi SQL (cek file `.sql` di repo ini):
 - **Product Leader:** Kategori `cama_mesa_banho` menjadi kategori terlaris.
 
 ## 4. Dashboard Visualization
-Akses dashboard interaktif melalui link di bawah ini:
-👉 **[View Dashboard on Tableau Public]([LINK_TABLEAU](https://public.tableau.com/views/Book1_17764253413500/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+Analisis ini dilengkapi dengan dashboard interaktif untuk memudahkan eksplorasi data secara visual. Anda dapat mengaksesnya melalui tautan di bawah ini:
+
+👉 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Book1_17764253413500/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
 
 ## 5. Strategic Recommendations
-- **Retention Program:** Fokus pada program loyalitas untuk segmen *High-Value Customer*.
-- **Peak Season Readiness:** Optimalisasi stok 2 bulan sebelum November (Black Friday).
-- **Product Prioritization:** Alokasi budget promosi lebih besar pada kategori *Best-Seller*.
+Berdasarkan temuan data, berikut adalah rekomendasi strategis untuk meningkatkan performa bisnis:
+* **Retention Program:** Fokus pada program loyalitas untuk segmen *high-value customer* guna menjaga stabilitas revenue.
+* **Peak Season Readiness:** Optimalkan stok dan kampanye pemasaran 2 bulan sebelum November untuk memaksimalkan momentum Black Friday.
+* **Product Prioritization:** Alokasikan budget promosi lebih besar pada kategori *best-seller* untuk efisiensi biaya pemasaran.
+* **Market Expansion:** Eksplorasi strategi logistik murah ke wilayah di luar kota besar untuk memperluas jangkauan pasar.
